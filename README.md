@@ -20,9 +20,6 @@ HealthCare Insights, a prominent healthcare research and analytics organization,
 - Data Visualization
 - Dashboard Development
 
-
-![Data Analyst](https://github.com/davidadenaiyes/HealthCare-insights-/blob/main/EDA%20of%20symptoms.PNG)
-
 ## Modelling
 I used Exploratory Data Analysis to understand the patterns and factors influencing diseases among patients. These approach involves summarizing and discovering insights from data without making any assumptions.
 
@@ -50,6 +47,7 @@ Peaks at 35 and 45 years with 42 cases each, and at 30 years with 28 cases, indi
 ### Risk Factors in Middle Age: 
 Investigating the lifestyle habits, diet, exercise routines, and environmental factors of patients at peak ages **(35 and 45)** can unveil triggers for diseases, aiding prevention strategies.
 
+![Data Analyst](https://github.com/davidadenaiyes/HealthCare-insights-/blob/main/EDA%20of%20symptoms.PNG)
 
 ## Dashboard View
 Our interactive dashboard provides a comprehensive overview of the disease distribution, patients demographics, disease outcomes. 
